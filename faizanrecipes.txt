@@ -1,0 +1,260 @@
+Srno	RecipeName	TranslatedRecipeName	Ingredients
+1	Chicken Shawarma With Tahini And Pickle		"• Boneless chicken - 400 g
+• Hung curd - 200 g
+• Lemon juice - 2 tbsp
+• Ginger garlic paste - 2 tsp
+• Salt - 1 tsp
+• Red chilli powder - 1.5 tsp
+• Turmeric - 1/2 tsp
+• Jeera powder - 1.5 tsp
+• Pepper - 1 tsp
+• Coriander powder - 1 tsp
+• Cinnamon - 1 tsp
+• Red chilli flakes - 1 tsp"
+2	Arabic Pickles || Lebanese Pickles || Shawarma pickles		"• Carrots - 250 g
+• Beet root - 250 g
+• Cucumber - 250 g
+• Green chilly - 5-6
+• Garlic -  10 cloves
+• Salt - 6 tsp
+• Vinegar
+• Warm water"
+3	Baked Feta Cheese Pasta		"500g Pasta of your choice
+200g Feta cheese 
+1000g tomatoes
+10 - 15 Garlic cloves
+50ml Olive oil
+Salt to taste
+Black pepper to taste
+1.5 teaspoon Oregano
+half teaspoon Red chili flakes
+Fresh basil, chopped "
+4	Banana proats		"Oats - 50 grams
+""Calories : 639
+MACROS
+Protein : 41 grams
+Fat -15 grams
+Carbs - 85 grams""
+Milk - 150 Ml
+Whey - 1 scoop
+Banana - 2 ripe
+Chia seeds - 10 grams
+"
+5	Banana Ice Cream		"Banana - 400 grams
+Amul Fresh Cream - 150 Ml
+Whey - 2 scoops
+Jackfruit - 150 grams
+""Calories : 1303
+MACROS
+Protein : 60 grams
+Fat - 43 grams
+Carbs - 186 grams"""
+6	Choco Lava Muffins		"• Cocoa powder - 30 g
+• Whey powder - 1 scoop
+• Whole wheat flour - 100 g
+• Dark chocolate - 70 g
+• Baking powder - 1 tsp
+• Baking soda - 1/2 tsp
+• Cinnamon - 1/2 tsp
+• Oil - 30 g
+• Banana - 300 gm ripe
+""Macros Information :
+Carbs : 217g
+Fat : 72g
+Protein: 92g
+Calories : 1747""
+• Milk - 200 ml
+• 1 whole egg
+• 1 tsp vanilla ess"
+7	Tahini Sauce		"• Lemon - 1 tbsp
+• Garlic - 10 cloves
+• Salt - 1/2 tsp
+• Olive oil - 15 g 
+• Roasted sesame - 30 g
+• Hung curd - 300 g
+""Macros Information :
+Carbs : 31g
+Fat : 44g
+Protein: 25g
+Calories : 555"""
+8	Lassi		"Recipe Ingredients list
+""Step-1
+In a blender, add the milk and to it add the curd.
+Step-2
+Blend it well until it becomes a nice thick lassi.
+Step-3
+Pour it into a glass and enjoy the cool drink.
+Step-4
+Pro tip : If you let the curd + milk mixture sit for a few hours it becomes richer and thicker as the milk starts becoming curd.
+Step-5
+For more such healthy recipes and tips follow me on Fittr, Instagram(@fitcheffaizan) and YouTube (FIT CHEF FAIZAN)""
+Milk - 150 ml
+Recipe Ingredients list
+Curd - 200 grams
+Recipe Ingredients list
+Salt/sugar - optional (I like my lassi without this, very basic)"
+9	Chocolate Banana Bread		"Calories : 1834
+MACROS
+Protein : 108 grams
+Fat - 57 grams
+Carbs - 241 grams"
+10	Baked Feta Cheese Pasta		TikTok recipes going viral again and I decided to check it for you. At the beginning I was skeptical about this baked feta cheese pasta recipe. But after trying this trending recipe I was surprised about the taste; it actually tastes good! This feta and tomatoes pasta dish is creamy, delicious and easy to make.
+11	Spinach Chicken Cheese Meatballs		"3 Ingredient Spinach Chicken Cheese Meatballs (Keto Friendly)
+
+Looking for yet another high protein recipe or want a smart idea to include a lot of veggies into your diet?
+
+Well as usual, you'll always find the solution to that on my page, so look no further : D
+
+You can also use this recipe if you're following keto currently.
+
+Here's my recipe for really yummy spinach, chicken & cheese meatballs.
+
+For more such recipe ideas follow me on @fitcheffaizan"
+12	Chicken & Egg Biryani		"Chicken & Egg Biryani (High Protein) (Revised Recipe)
+
+Biryani?! On a ""diet""?
+Possible! Here's the recipe for my healthy, high protein chicken biryani to enjoy in your diet while hitting your goals in a sustainable way and enjoying life.
+
+For more such recipes do follow me on @fitcheffaizan"
+13	Hyderabadi Haleem		"Hyderabadi Haleem (High Protein)
+
+If you're looking for a quick and easy haleem recipe to try at home, this one will take you straight to the streets of Hyderabad. Smooth, rich and full of flavours, this Hyderabadi Haleem is a perfect blend of taste and health!
+
+For more such macro friendly, easy recipes, do follow me on @fitcheffaizan!"
+			"🥕Gajar Ka Halwa (One Pot Sweet) (Low Calorie) 🥕
+
+• Delicious, simple & healthy Gajar Ka Halwa recipe!
+
+• Who doesn't love it when they can have sweets that too guilt free!!
+
+• Here's my healthier version of the original Gajar Ka Halwa and a lower calorie version of my own previous recipe. Do try it out and let me know if you liked it!
+
+♥️ For more such easy, healthy and delicious recipes, follow me on Instagram.
+
+♥️ If you liked the recipe then do share it with your friends and family!
+"
+14	"4 Ingredient Mango Cream Of Rice (High Protein)
+"		"4 Ingredient Mango Cream Of Rice (High Protein)
+
+It's the mango season here in India, so why not enjoy a sweet dish that's high in protein as well as in satiety. It'll keep you full for hours, curb your cravings for sweets and help you reach protein goals while enjoying the food you eat and trying out something new.
+
+For more such easy and tasty recipes do follow me on @fitcheffaizan"
+			"3 Ingredient Spinach Chicken Cheese Meatballs (Keto Friendly)
+
+Looking for yet another high protein recipe or want a smart idea to include a lot of veggies into your diet?
+
+Well as usual, you'll always find the solution to that on my page, so look no further : D
+
+You can also use this recipe if you're following keto currently.
+
+Here's my recipe for really yummy spinach, chicken & cheese meatballs."
+			"3 Ingredient High Protein Vanilla Souffle (Keto)
+
+Looking for a dessert idea that allows you to enjoy something sweet while not totally destroying your daily calorie needs? Well, you're in luck! As usual I keep coming up with these recipes so here's another one for you to try out & enjoy.
+
+If you like the recipe ideas I keep sharing then do follow me (@fitcheffaizan)! : DD
+
+#healthywithfitcheffaizan #fitcheffaizan #ketorecipes #healthyrecipe #healthyfoodporn #healthyrecipes #healthyfoodie #ketofriendly #ketobreakfast #ketomeal #ketodessert #fitspo #fitfam #cico #caloriecounting #caloriecount #fortheabs #abs #shredded #shredz #shreddedlife #healthysweets #instafit #instagood #instamoment #instafood"
+			"4 Ingredient Cheesy Schezwan Omelette
+
+Bored of eating eggs the same way? Looking for a new & creative recipe for the same? Well you're in luck! Here's my simple & healthy version of a Cheesy Schezwan Omelette made with just a few ingredients.
+
+For more such interesting & easy recipes do follow me on Instagram (@fitcheffaizan)
+
+#schezwan #schezwansauce #szechuan #szechuanfood #szechuansauce #szechuancuisine #omelette #omelet #omelete #omeletefit #fitcheffaizan #healthywithfitcheffaizan #healthyrecipe #healthyfoodporn #healthyrecipes #healthyfoodie #eggrecipes #easyrecipesathome #easyrecipe #egglover #highproteindiet #highproteinmeals"
+			"Pineapple Chutney
+
+This delicious pineapple chutney recipe is perfect to serve with just about any grilled meat. Chutney may seem like a complex recipe, but trust me, this one is very simple like all my recipes tend to be.
+
+You'll taste one of the best sweet, spicy & savoury sauce. You can serve it with chicken, meat or fish.
+
+For more such interesting recipe ideas, do follow me on Instagram.
+
+#bengali #bengalifood #bengalicuisine #bengalirecipe #healthymindhealthybody #healthywithfitcheffaizan #fitcheffaizan #healthyrecipe #healthychaat #healthyrecipes #healthyfoodie #fitfam #fitspo #recipeoftheday #fatlossfood #fatlosstips #fatlosshelp #fatlossdiet #fatlossjourney #indianfood #indiancuisine #indiancuisines"
+			"Dahi Vada (Easy, high protein, super tasty & super delicious!)
+
+Fluffy, tender, tangy & sweet dahi vada are a combination of all your favourite flavours & textures in one tasty snack!
+
+As usual my version is always healthier, macro friendly & equally tasty or even tastier hehe.
+
+Follow @fitcheffaizan for more such easy & healthy recipes.
+
+#fitcheffaizan #healthywithfitcheffaizan #healthyrecipe #healthyfoodporn #healthyrecipes #healthyfoodie #fatlossfood #fatlosstips #fatlosshelp #fatlossdiet #fatlossjourney #highproteindiet #highproteinmeals #foodporn #dahibara #dahi #dahivada #chaatlover #chaat #chaatmasala #healthychaat #iifymrecipes #iifym #iifymlifestyle #indianfood"
+			"Lemon Pepper Chicken
+
+Low on calories? Who says you've to eat boiled/bland chicken? Want to enjoy good flavours? Fret not! I've gotchu. This is the perfect high protein & refreshing recipe to enjoy while hitting your goals.
+
+Give it a shot & let me know! Follow me @fitcheffaizan for more such easy recipes.
+
+#fitcheffaizan #healthywithfitcheffaizan #healthyrecipes #healthyrecipe #healthyfoodie #healthyfoodporn #healthymindhealthybody #fatlosstips #fatlosshelp #fatlossjourney #fatlossfood #fatlossdiet #chickenrecipes #lemonchicken #lemonpepperchicken #lemonpepper #highproteinmeals #highproteinlowcarb #highproteindiet"
+			"Palak Chicken (Spinach Chicken)
+
+Who says ""diet"" has to be boring, if you can get creative then it'll never get boring to stay on track.
+
+Note : Forgot to add Spinach to the list of ingredients it's 100 g for this quantity.
+
+This has to be one of the easiest & tastiest chicken recipes out there, high in protein, high in fibre, low in calories & filled with flavour, do give this recipe a shot!
+
+For more such recipes do follow me @fitcheffaizan
+
+If you liked the recipe then do share it with your friends & family.
+
+#spinachrecipes #spinachchicken #healthylifestyle #healthyrecipes #healthyindianfood #healthywithfitcheffaizan #fitcheffaizan #fatlosstips #fortheabs #fatlosscoach #fatlossjourney #fatloss #fitfam #fitspo #dietalowcarb #lowcaloriemeals #lowcarbmeals"
+			"Tandoori Chicken (without tandoor)
+
+Tandoori chicken at its best! This easy recipe helps you make incredibly tender, juicy, moist & outrageously delicious Tandoori chicken. This mind-blowing way of grilling chicken is immensely popular in the Indian restaurants & is known as Tandoori Murgh. Indian food lovers keep going back to the restaurants time and again, not knowing it is the simplest that can be made at home in a much healthier way.
+
+Follow me on @fitcheffaizan for more such easy recipes.
+
+#tandoori #tandoorichicken #tandoor #healthywithfitcheffaizan #fitcheffaizan #fitfam #fitspo #healthyrecipes #fatlosstips #fatlosscoach #fatlossjourney #fatloss #musclegains #musclegain #healthyindianfood"
+			"Chicken Bhuna Masala
+
+This has to be one of the easiest chicken recipes out there, high in protein, low in calories & filled with flavour, do give this recipe a shot. If you like this recipe, do follow my page @fitcheffaizan for more such easy recipes!
+
+Note : The roti on the side of the Chicken Bhuna Masala is my high protein soya roti.
+
+#chickenrecipes #healthywithfitcheffaizan #fitcheffaizan #fortheabs #bhuna #chickenbhuna #indianfood #indianfoodrecipes #easymealprep #easymealideas #easymeals"
+			"High Protein Tomato Egg Drop Soup (Low Calorie! Very filling!)
+
+Make this easy, super delicious & healthy version of the classic tomato soup with just a few simple ingredients this comforting & thick soup will be ready in about 30 mins. It's a delicious soup to be enjoyed in the winters & presented during occassions.
+
+If you like this recipe, do check out my other recipes on Instagram (@fitcheffaizan)
+
+#fitcheffaizan #healthywithfitcheffaizan #healthyfood #healthyhabits #healthylifestyle #fitfam #fitspo #tomatosoup #tomatosoup🍅 #eggdrop #eggdropsoup #souprecipe #healthysoup #comfortfood #comfortfoods"
+			"Creamy Cheesy Prawn Pasta (Easy & super delicious!)
+
+A delicious, creamy & cheesy pasta recipe second to none & easy to make by yourself at home within 30 mins. Definitely a must try. If you like this recipe then do follow me on Instagram (@fitcheffaizan) & do check out my other recipes too!
+
+#pasta #healthywithfitcheffaizan #fitcheffaizan #pastarecipe #pastalover #proteinpasta #highprotein #highproteindiet #easymeals #easymealprep #easymealideas #healthyfood #healthylifestyle #fitness #quantifiednutrition #flexibledieting #foodporn #fitfam #fitspo #prawn"
+			"Creamy Velvety High Protein Caramel Pudding!
+
+Who doesn't love a soothing, soft & velvet like creme caramel pudding. This is by far one of my easiest recipes for such a delicious recipe & it's GUILT FREE! It's loaded with protein & not too high on carbs, to suit the needs of any diet (except keto, why do you even do that unless you don't have some medical issues).
+
+Do follow me on Fittr & Instagram (@fitcheffaizan) for more such lovely & easy diet recipe ideas.
+
+#caramelpudding #pudding #fitcheffaizan #healthywithfitcheffaizan #puddings #puddin #vanillapudding #highprotein #highproteindessert #proteindessert #proteinfood #proteinrecipes"
+			"Chocolatey Cream Of Rice (High Protein! Very filling!)
+
+Cream of rice is an extremely simple, customisable & filling meal. A wholesome meal in a bowl, you can customise it to your own liking as much as possible.
+For more such recipes do follow me Instagram (@fitcheffaizan)
+
+#fitcheffaizan #healthywithfitcheffaizan #creamofrice #healthylifestyle #healthyfood #easymeals #easymealprep #easymealsforbusypeople #fitspo #fitfam #fitnesslifestyle #wholesomefood #foodporn #healthyrecipes #healthyrecipe"
+			"Aglio e Olio (Easiest Spaghetti Recive Ever!)
+
+Explored this recipe yesterday evening when I woke up from a nap & had plenty left to eat!
+
+I added my own twist & flavours, wasn't disappointed at all!
+Do give this easy recipe a try & let me know how you like it! ❤️
+Follow @fitcheffaizan for more!
+
+#spaghettiaglioolio #spaghetti🍝 #spagheddy #spaghettialloscoglio #aglioeolio #aglioolio #aglioolioepeperoncino #healthycooking #healthywithfitcheffaizan #fitcheffaizan #healthylifestyle #healthylifestyles #healthyfood #healthychoicesmatter #healthyliving #healthylifestyletips #healthychoice #easyrecipesathome #easyrecipe #homemadeitalian #italianfoodphotography #italianfoodlovers #italianfoodie #italianfoodlove #gymtips #quantifiednutrition #dietfoodrecipes #diettips #dietfood #musclegaintips
+50w"
+			"Homemade Whole Wheat Bread - Version 2.0
+
+The bread turned out amazing the first time I nailed the recipe, I've had it so many times after that, this time I wanted to make it look more presentable & prettier, so that's just what I did in this recipe!
+
+Do follow @fitcheffaizan for more such recipes! ❤️
+
+#healthywithfitcheffaizan #fitcheffaizan #breadrecipe #breadrolls #breadporn #breadart #breadsofinstagram #breadofinstagram #breadloaf #breadphotography #homemadebread🍞 #homemadebreads #wholewheatbread #healthylifestyle #healthycooking #healthyfood #healthylifestyletips #carbscarbscarbs #carbsandcompounds #carbsaregood #foodpornasia #foodporn🍴 #wholesomefood #quantifiednutrition #dietfoodrecipes #diettips #dietfood #fatlossfoods #musclegaintips #wholemealbread"
+			"Chicken Momos (Keto)
+Juicy minced chicken, paneer and spinach wrapped in cabbage blankets.
