@@ -1,0 +1,12 @@
+os
+datetime
+secrets
+tqdm
+minGPT
+pretty_midi
+librosa
+numpy
+matplotlib
+mpl_toolkits
+midi2audio
+IPython
